@@ -1,9 +1,9 @@
 <?php
+//Index file for Aquila Website
 
-/**
- * Main Template file.
- * 
- * @package Aquila
- */
+get_header();
+?>
+<div class="content">Content</div>
 
-echo 'Hello Wordpress';
+<?php
+get_footer();
